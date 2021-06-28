@@ -1,0 +1,22 @@
+.fondo1 {
+	background-image: url(../multimedia/img/champions-league-fondo.jpg);
+	background-position: center;
+}
+
+.fondo2 {
+	background-image: url(../multimedia/img/havertz.jpg);
+	background-position: center;
+}
+
+.fondo3 {
+	background-image: url(../multimedia/img/pep-guardiola-en-la-final-de-champions.jpeg);
+	background-position: top;
+}
+
+.letra-blanca {
+	color: aliceblue;
+}
+
+.letra-negra {
+	color: black;
+}
